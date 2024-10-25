@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  检测Bilibili视频发布人，符合条件则显示GIF
-// @author       YourName
+// @author       bapalati
 // @match        *://www.bilibili.com/video/*
 // @grant        GM_xmlhttpRequest
 // @connect      api.bilibili.com
